@@ -36,7 +36,7 @@ Open **https://log-lenx-git-main-sayak9.vercel.app** in your browser.
 
 ## Project Presentation
 
-📄 **[View our 6-slide Hackathon Presentation (PDF)](https://go.fliplink.me/view/C913FBDB-582B-48F2-B766-7BDD5BB66FE2)**
+📄 **[View our 6-slide Hackathon Presentation (PDF)](https://linkjar.to/2d28fb92/)**
 
 The presentation covers the problem, solution, workflow, prototype, expected impact, and future scope.
 
