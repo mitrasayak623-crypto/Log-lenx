@@ -46,7 +46,7 @@ Team ID: 2392608226-Hack Heist
 
 | Team Member | USN |
 
- Dharsandia Dishin :- 2392608226
+ Dharsandia Dishin :- 2392608226 |
  Sayak Mitra :- 2392608050 |
  Aryan Singh :- 2392608128 |
  Shahib Alam Saifi :- 2392608179 |
