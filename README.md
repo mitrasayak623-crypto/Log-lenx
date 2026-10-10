@@ -32,7 +32,7 @@ Log-LenX analyzes raw application logs and presents a clear incident overview wi
 
 ## Run Locally
 
-Open **(log-len-x.vercel.app)** in your browser.
+Open **https://log-lenx-git-main-sayak9.vercel.app** in your browser.
 
 ## Project Presentation
 
