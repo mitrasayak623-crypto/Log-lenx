@@ -54,7 +54,7 @@ Team ID: 2392608226-Hack Heist
 
 ## Repository
 
-[GitHub — Log-LenX]((https://github.com/mitrasayak623-crypto/Log-lenx))
+[GitHub — Log-LenX](https://github.com/mitrasayak623-crypto/Log-lenx)
 
 ---
 
